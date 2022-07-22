@@ -1,0 +1,18 @@
+.card {
+  background-color: rgb(251, 253, 255);
+  width: 290px;
+  margin-left: 20px;
+  margin-right: 20px;
+  box-shadow: 0px 10px 19px -6px #767474;
+  border-radius: 10px;
+}
+
+.cardName {
+  font-size: 24px;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.cardInfo {
+  text-align: center;
+}
